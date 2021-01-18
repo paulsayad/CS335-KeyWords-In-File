@@ -1,2 +1,13 @@
 # CS335-KeyWords-In-File
-Created a program in C++ that reads keywords from a file and locate them and their occurrences in another text file
+
+## About the Project
+
+## Project Design
+
+## How to Compile the Program
+
+1. Download the files and put them in a directory
+2. Navigate to your directory in your terminal and run the command
+> g++ main.cpp -o main
+3. To execute the program run the command
+> ./main
