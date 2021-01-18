@@ -2,11 +2,14 @@
 
 ## About the Project
 
+* Create a program that can read in keywords from a file and search another file for the keywords
+* Can also find the total occurrences of the keyword and even in specific lines
+
 ## Project Design
 
-* Create two text files
-1. Keywords.txt file to hold the keywords
-2. Text.txt file to hold the text to be searched
+* Two text files
+1. Keywords.txt file holds the keywords
+2. Text.txt file holds the text which will be searched
 
 * KeywordsInFile function where all processing wil take place. Time Complexity: O(N + M) time
 * KeywordFound(keyword) function which returns true if the specified keyword was found in the text. Returns false otherwise. Time Complexity: O(1) time.
