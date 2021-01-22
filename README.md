@@ -1,4 +1,4 @@
-# CS335-KeyWords-Locator
+# CS335-Keyword-Locator
 
 ## About the Project
 
